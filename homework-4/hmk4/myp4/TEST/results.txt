@@ -1,0 +1,12 @@
+Makefile optimization check: 
+OK
+Testing  Disk500000_4000_85_30_6.txt: 
+CPU Time: 0.070024 Disk accesses: 1559290 RAM: 2160033
+Testing  Disk500000_4000_85_30_7.txt: 
+CPU Time: 0.070219 Disk accesses: 1558551 RAM: 2159749
+Testing  Disk500000_4000_85_30_8.txt: 
+CPU Time: 0.07143 Disk accesses: 1556566 RAM: 2159111
+
+Total CPU Time: Yours 0.211673  Sean's: 7.93 so your score is 17
+Total disk accesses: Yours 4674407  Sean's: 3414676 so your score is 11
+Total score: 17 + 11 + 20 = 48
